@@ -1,0 +1,1 @@
+you need a navigation controller in your view to use XSImagePicker
